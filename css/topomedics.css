@@ -1,0 +1,47 @@
+body {
+    margin:0;
+    padding: 0;
+    background-color: #7e9dca;
+   }
+.body{
+    columns: 3;
+    column-gap: 30px;
+}
+   #content {
+    background-color: #faffeeec;
+    padding: 150px 0;
+   }
+   .text {
+    padding: 0 20px;
+    margin: 0 auto;
+    width: 800px;
+   }
+   h1, h2 {
+    font-family: Merriweather, serif;
+    font-weight: 700;
+   }
+   h1 {
+    font-size: 42px;
+    line-height: 44px;
+    letter-spacing: -1;
+    margin-top: 44px;
+   }
+   h2, .title {
+    font-size: 14px;
+    line-height: 22px;
+   }
+   h2{
+       margin-bottom: 0;
+   }
+   .title {
+    font-family: Lato, sans-serif;
+    color: red;
+    font-weight: 700;
+   }
+
+   hr{
+       margin-left: 0;
+       height: 3px;
+       width: 100px;
+       background-color:black;
+   }
